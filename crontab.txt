@@ -1,0 +1,1 @@
+*/10 * * * * /usr/loca/bin/cec-on.sh > /dev/null 2>&1
